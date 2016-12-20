@@ -1,4 +1,4 @@
-
+//ver 4
 public class Motore extends Barca {
 private int potenza;
 	
