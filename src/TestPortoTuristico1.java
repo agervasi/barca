@@ -1,4 +1,7 @@
+//ver 2
+
 /*Prova   !!!!!!!!!!!!!!
+
  * GESTIONE PORTO TURISTICO
    PETRACHI
    il num di posto è quello in cui si trova la barca +1
